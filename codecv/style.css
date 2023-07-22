@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, 'Times New Roman', serif;
+
+}
+
+body{
+    background: url(blod.jpeg);
+    display: grid;
+    justify-self: baseline;
+    align-items: center;
+   /* min-height: 100px;*/
+}
+.profileText .imgBx{
+    position:relative;
+    /*float: right;*/
+    width: 100px;
+    height: 100px;
+    border-radius: 35%;
+    overflow: visible;
+    
+}
+
+.profileimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+
+.container.left_side
+{
+    position:relative:absolute
+    background:sticky
+    padding: 45px;
+}
